@@ -242,3 +242,7 @@ git branch -M main
 git remote add origin https://github.com/E1github/test_gb_s3.git
 git push -u origin main
 ```
+
+
+### 10. Работа с тегами
+
