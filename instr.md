@@ -226,6 +226,10 @@ git remote
 ```
 git push --set-upstream origin main
 ```
+или
+```
+git push
+```
 где *origin* короткое имя для удаленного репозитория, а *main* имя отправляемой ветки.
 
 
