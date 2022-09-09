@@ -199,3 +199,6 @@ git branch --no-merged
 ```
 git branch --merged
 ```
+
+## 9. Работа с удаленным репозиторием
+
